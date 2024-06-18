@@ -1,5 +1,4 @@
-# Olá pessoal! Eu sou o Juan Mota 😄🚀 
-## Frontend Developer & UI Designer
+## Olá pessoal! Eu sou o Juan Mota, Frontend Developer & UI Designer😄🚀 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juann.dev)
@@ -19,6 +18,13 @@
 </div>
 <br/>
 
+<div>
+<h1>Github Status</h1>
+ <a href="https://www.github.com/juanndev">
+ <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=juanndev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanndev&layout=compact&langs_count=16&theme=dark"/>
+</div>
+   
 <h1>Atividade</h1>
 <!-- visitors count  -->
 
