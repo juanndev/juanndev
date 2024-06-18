@@ -28,7 +28,7 @@
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/devjosecarlosteles/count.svg" />  
+  <img src="https://profile-counter.glitch.me/juanndev/count.svg" />  
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
