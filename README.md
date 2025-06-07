@@ -25,7 +25,7 @@
 <div style="display: inline_block">
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white">
-  <img align="center" alt="react" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 
 ### Workstation Tools:
