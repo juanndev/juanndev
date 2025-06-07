@@ -15,8 +15,6 @@
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> &nbsp;
   <img align="center" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> &nbsp;
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> &nbsp;
-  <img align="center" alt="reactjs" src="https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB"> &nbsp;
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> &nbsp;
 </div>
 <br/>
 
