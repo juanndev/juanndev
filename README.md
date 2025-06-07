@@ -20,6 +20,20 @@
 </div>
 <br/>
 
+### Studying in this moment:
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white">
+  <img align="center" alt="react" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+</div>
+
+### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)&nbsp;
+
 <div>
 <h1>Github Status</h1>
  <a href="https://www.github.com/juanndev">
