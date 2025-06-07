@@ -1,8 +1,8 @@
 ## Olá pessoal! Eu sou o Juan Mota, Mobile Developer & Front-end😄🚀 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juann.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanndev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juann.dev) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanndev/) &nbsp;
 
 
 
@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-### Studying in this moment:
+### Estudando neste momento:
 <br>
 <div style="display: inline_block">
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> &nbsp;
@@ -26,7 +26,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> &nbsp;
 </div>
 
-### Workstation Tools:
+### Ferramentas de trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
