@@ -4,9 +4,7 @@
 
 ### Mobile Developer | Flutter | Segurança de Aplicações
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanndev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juann.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanndev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanndev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juann.dev) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanndev) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.juanndev.com/)
 
 </div>
 
@@ -57,9 +55,10 @@ Desenvolvedor Mobile especializado em **Flutter**, com experiência sólida na c
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/juanndev](https://www.linkedin.com/in/juanndev/)
-- Instagram: [@juann.dev](https://www.instagram.com/juann.dev)
-- GitHub: [github.com/juanndev](https://github.com/juanndev)
+- **Portfólio:** [juanndev.com](https://www.juanndev.com/)
+- **LinkedIn:** [linkedin.com/in/juanndev](https://www.linkedin.com/in/juanndev/)
+- **Instagram:** [@juann.dev](https://www.instagram.com/juann.dev)
+- **GitHub:** [github.com/juanndev](https://github.com/juanndev)
 
 ---
 
